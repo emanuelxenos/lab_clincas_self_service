@@ -24,10 +24,11 @@ Lista de pacotes utilizados:
   <li>brasil_fields: ^1.14.2</li>
   <li>camera: ^0.10.5+9</li>
 </ul>
-</div>
 Pacote criado durante o evento:
+</br>
+- <a href='https://github.com/emanuelxenos/lab_clinicas_core'>Lab Clinicas Core</a>
+</div>
 
-- [Lab Clinicas Core](#https://github.com/emanuelxenos/lab_clinicas_core)
 
 ## Capturas de telas do projeto desenvolvido
 <div>
