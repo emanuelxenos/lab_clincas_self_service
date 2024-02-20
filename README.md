@@ -31,12 +31,12 @@ Pacote criado durante o evento:
 
 ## Capturas de telas do projeto desenvolvido
 <div>
-<img width='400' src='screenscapture/login.png'/>
-<img width='400' src='screenscapture/inicio.png'/>
-<img width='400' src='screenscapture/terminal de atendimento.png'/>
-<img width='400' src='screenscapture/cadastro  ou pesquisa.png'/>
-<img width='400' src='screenscapture/dados do paciente.png'/>
-<img width='400' src='screenscapture/documentos.png'/>
-<img width='400' src='screenscapture/tirar foto.png'/>
-<img width='400' src='screenscapture/tela de senha.png'/>
+<img width='400' src='screenscapture/login.png' title='Tela de login'/>
+<img width='400' src='screenscapture/inicio.png' title='Tela de ínicio'/>
+<img width='400' src='screenscapture/terminal de atendimento.png' title='Tela terminal de atendimento'/>
+<img width='400' src='screenscapture/cadastro  ou pesquisa.png' title='Tela de cadas ou pesquisa'/>
+<img width='400' src='screenscapture/dados do paciente.png' title='Tela dados do paciente'/>
+<img width='400' src='screenscapture/documentos.png' title='Tela de documentos'/>
+<img width='400' src='screenscapture/tirar foto.png' title='Tela de tirar foto'/>
+<img width='400' src='screenscapture/tela de senha.png' title='Tela final de senha, aguardando'/>
 </div>
